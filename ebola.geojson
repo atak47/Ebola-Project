@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "Ebola Outbreak-2019-10-20-1650",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "new cases location": "Kivu", "coordinates": "-0.752154, 28.991793", "links": null, "field_4": null, "coordinates y": 34.3083579, "coordinates x": 35.773755, "field_7": null }, "geometry": { "type": "Point", "coordinates": [ 35.773755, 34.3083579 ] } },
+{ "type": "Feature", "properties": { "protest location": "Goma, "coordinates": "-1.661686, 29.224246", "links": null, "field_4": null, "coordinates y": 33.8668943, "coordinates x": 35.9506051, "field_7": null }, "geometry": { "type": "Point", "coordinates": [ 35.9506051, 33.8668943 ] } },
